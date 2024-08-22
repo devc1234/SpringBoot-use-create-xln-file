@@ -12,3 +12,9 @@ Then mvn install
 
 then mvn Run
 
+PORT 9000
+
+
+
+http://localhost:9000/swagger-ui/index.htmL
+
